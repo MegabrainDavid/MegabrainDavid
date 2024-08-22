@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MegabrainDavid/MegabrainDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on pursuing BS in computer Science
 - 🌱 I’m currently learning advanced algorithm Design and analysis, Digital Logic and Computer Design, and Programming language Paradigms
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about matcha!
 - 📫 How to reach me: @megabraindavid on everything
 - ⚡ Fun fact: I love matcha!
--->
+
